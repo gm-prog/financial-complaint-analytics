@@ -1,0 +1,1 @@
+Place the original `lecture-file.csv` here before running the cleaning script. The source CSV is retained locally in the supplied project bundle but ignored by Git to avoid redistributing a dataset whose provenance/permission terms were not supplied.

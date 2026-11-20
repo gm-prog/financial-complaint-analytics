@@ -1,0 +1,1 @@
+The cleaning script writes `complaints_cleaned.csv` here. Generated CSV extracts are ignored by Git. The aggregate `validation_summary.json` is tracked because it contains counts and quality-check results, not row-level records.

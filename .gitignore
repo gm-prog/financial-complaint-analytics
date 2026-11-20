@@ -1,0 +1,24 @@
+# Local raw and processed data (may have usage/distribution restrictions)
+data/raw/*.csv
+data/processed/*.csv
+
+# Power BI files can embed the underlying data; keep local unless publication is authorised
+powerbi/*.pbix
+powerbi/*.pbit
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Temporary/exports
+*.tmp
+*.log
